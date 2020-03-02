@@ -1,20 +1,12 @@
 # Drones
 
- Drone project. Still under development. Expect things to not work.
+ Drone project. 
+ 
+-  **Patches**: 24
+-   **Formats:** WAV
+-   **Approx Size:** 1.3GB
 
--  **Patches**: 9
--   **Formats:** Kontakt, Alchemy, WAV
--   **Approx Size:** 1.6GB
 
-# Loading
-
-**Kontakt**
-
-1. Move the Audio and NKI folders to where ever you like
-2. Open Kontakt
-3. From the file menu select "Batch resave". Proceed with yes
-4. Open the folder with the .nki files 
-5. Once the batch resave process has completed open a sample using the file browser
 
 # Support this project
 
