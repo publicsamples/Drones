@@ -7,7 +7,6 @@
 
 
 
-## Disks
 
 [
 ![enter image description here](https://www.modularsamples.com/img/USB.png)
